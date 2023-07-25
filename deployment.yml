@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sample-webpage
-        image: trinesh:sahesh
+        image: trineshkumar/kumar17:sahesh
         ports:
         - containerPort: 80
 
